@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Vishnu Prasad</h1>
-<h3 align="center">2nd Year Engineering Student | Learning C, Python & Arduino</h3>
 
----
-
-### 👨‍💻 About Me
-- 🎓 Engineering student passionate about **coding and problem-solving**  
--  Currently learning **C**, **Python**, and working with **Arduino** projects  
--   Debugging feels like detective work with extra coffee 
-
----
-
-### 🧠 Languages & Tools
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="60" height="60"/> 
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FC1C9&center=true&vCenter=true&width=600&lines=Engineering+Student+from+India;Learning+C,+Python,+and+Arduino;Future+Developer+in+Progress+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 👨‍💻 About Me  
+- 🎓 2nd-year **Engineering Student** from India  
+- 💻 Passionate about **C programming**, **Python**, and **Arduino**  
+- 🌱 Exploring the basics of **software** and **embedded systems**  
+- ☕ Debugging code one coffee at a time  
+
+---
+
+### ⚙️ My Tech Stack  
+
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Programming** | ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white) |
+| **Hardware / Electronics** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnu05-png&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -36,10 +34,10 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/vishnu-prasad-928268336" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  <a href="https://linkedin.com/in/vishnu-prasad-928268336" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
